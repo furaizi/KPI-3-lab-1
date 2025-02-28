@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
+	"log"
 	"net/http"
 	"time"
-	"log"
 )
 
 type TimeResponse struct {
